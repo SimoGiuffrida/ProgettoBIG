@@ -1,6 +1,6 @@
 # Installazione di Hadoop 3.2.0 in Windows Subsystem for Linux (WSL)
 
-Questo tutorial ti guiderà attraverso i passaggi per installare Hadoop 3.2.0 in Windows Subsystem for Linux (WSL) e avviare una configurazione pseudo-distribuita (single-node mode). Questi passaggi sono pensati per essere eseguiti su un sistema Ubuntu WSL.
+In questo tutorial sono mostrati i passaggi per installare Hadoop 3.2.0 in Windows Subsystem for Linux (WSL) e avviare una configurazione pseudo-distribuita (single-node mode). Questi passaggi sono pensati per essere eseguiti su un sistema Ubuntu WSL.
 
 ## Prerequisiti
 
